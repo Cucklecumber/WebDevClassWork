@@ -1,0 +1,44 @@
+body {
+  background-color:rgb(231, 164, 211);
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+hr.rounded {
+  border-top: 80px;
+  border-radius: 5px;
+  height: 12px;
+  background: black;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  text-align: center;
+
+}
+
+p {
+  color: rgb(74, 104, 238);
+
+}
+
+.fonted {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+
+}
+
+.caption {
+  font-weight: bold"
+}
+
+
+.reviewer {
+  color:rgb(23, 41, 204)
+}
+
